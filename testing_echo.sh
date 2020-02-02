@@ -1,0 +1,1 @@
+echo ">>>>" LETS MAKE THOSE COURSE FOLDERS "<<<<"
